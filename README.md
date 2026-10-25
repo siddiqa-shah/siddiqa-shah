@@ -1,4 +1,4 @@
-<img width="1366" height="768" alt="image" src="" /># Hi, I'm Siddiqa shah 👋
+ Hi, I'm Siddiqa shah 👋
 
 # 💫 About Me:
 🔭 Currently exploring: web development & automations<br>🌱 Skilled in: Python automation , CS fundamentals in Java, C++, OOP,html,css,javascript<br>💬 Ask me about: log parsing, CLI tools, Git workflows<br>📫 Reach me: www.linkedin.com/in/siddiqa-shah-251470421
